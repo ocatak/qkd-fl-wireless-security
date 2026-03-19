@@ -95,16 +95,6 @@ Typical generated files include:
 
 ---
 
-## LaTeX Paper Build
-
-The manuscript source is under `pubs/`.
-
-To compile:
-1. Open `pubs/paper_main.tex` in your LaTeX environment.
-2. Build with `pdflatex`/`latexmk` (and BibTeX as needed).
-
----
-
 ## Citation
 
 ```bibtex
